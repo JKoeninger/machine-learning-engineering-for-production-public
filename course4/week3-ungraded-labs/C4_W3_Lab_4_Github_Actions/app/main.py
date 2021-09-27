@@ -4,7 +4,7 @@ from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel, conlist
 
-
+# Test Juergen Koeninger
 
 app = FastAPI(title="Predicting Wine Class with batching")
 
